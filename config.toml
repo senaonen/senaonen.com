@@ -1,7 +1,7 @@
 baseURL = "https://www.senaonen.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Sena Önen"
+title = "Sena Önen Öz"
 theme = "sena"
 
 
@@ -73,11 +73,11 @@ theme = "sena"
   googleTagManagerID = "GTM-NVN2BJG" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Adrián"
-    text2 = "Moreno"
+    text1 = "Sena"
+    text2 = "Önen Öz"
 
   [params.footer]
-      copyright = "© Sena Önen. <a href=\"https://github.com/senaonen/senaonen.com\">Code available on GitHub</a>."
+      copyright = "© Sena Önen Öz. <a href=\"https://github.com/senaonen/senaonen.com\">Code available on GitHub</a>."
 
 [taxonomies]
   book_author = "book_authors"
