@@ -9555,6 +9555,9 @@ span a:hover {
 .experience + .experience {
     padding-top: 50px;
 }
+.publication + .publication {
+    padding-top: 50px;
+}
 .contact__info h3 {
     margin-bottom: 0;
     font-size: 16px;
@@ -9725,6 +9728,13 @@ input[type="email"]::placeholder {
     z-index: 2;
     position: relative;
 }
+.publication__date {
+    font-size: 14px;
+    font-weight: 300;
+    color: #333;
+    z-index: 2;
+    position: relative;
+}
 .about__profile-picture {
     -webkit-box-flex: 0;
     flex: 0 0 calc(100% + 80px);
@@ -9764,7 +9774,23 @@ html body {
         font-size: 24px;
     }
 }
+.publication__title {
+    position: relative;
+    font-size: 20px;
+    font-weight: 600;
+    z-index: 2;
+}
+@media (min-width: 992px) {
+    .publication__title {
+        font-size: 24px;
+    }
+}
 .experience__company {
+    font-size: 14px;
+    font-weight: 700;
+    color: #e93e34;
+}
+.publication__author {
     font-size: 14px;
     font-weight: 700;
     color: #e93e34;
