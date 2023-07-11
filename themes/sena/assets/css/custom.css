@@ -120,11 +120,24 @@ ul.book-category-content {
     color: #478079;
 }
 
+.publication__authors{
+    color: #478079;
+}
+
+.publication__venue{
+    color: #478079;
+    font-weight: normal;
+}
+
 .experience__location{
     font-weight: normal;
 }
 
 .experience+.experience{
+    padding-top: 0;
+}
+
+.publication+.publication{
     padding-top: 0;
 }
 
@@ -158,6 +171,39 @@ body.home div.experience{
 .all-experience-container{
     margin-top: 50px;
 }
+
+
+body.home div.publication{
+    padding-top: 50px;
+}
+
+.publication a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.publication.selected a,
+.publication:hover a,
+.publication:active a,
+.publication a:hover, 
+.publication a:active{
+    display: block;
+    background-color: #488079;
+}
+.publication.selected a > .publication__company,
+.publication:hover a > .publication__company,
+.publication:active a > .publication__company,
+.publication a:hover > .publication__company,
+.publication a:active > .publication__company{
+    color: white;
+}
+
+.all-publication-container{
+    margin-top: 50px;
+}
+
 .footer__copy a{
     color: white;
 }
