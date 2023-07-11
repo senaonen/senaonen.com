@@ -17,13 +17,13 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
-    URL: "mailto:sena.onenoz@mail.mcgill.ca"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/senaonenoz/"
 
-  
-  socialLinks:
-    - icon: "googlescholar"
-      URL: "https://scholar.google.com/citations?user=AZ82MpYAAAAJ&hl=en"
+  button2:
+    icon: "icon-mail-fill"
+    btnText: "Google Scholar"
+    URL: "https://scholar.google.com/citations?user=AZ82MpYAAAAJ&hl=en"
 
 # about
 about:
