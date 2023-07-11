@@ -1,8 +1,8 @@
 ---
 date: 2016-12-01T00:00:00+01:00
 draft: false
-title: "Research and Teaching Assistantship"
-jobTitle: "Research and Teaching Assistantship"
+title: "Research and Teaching Assistant"
+jobTitle: "Research and Teaching Assistant"
 company: "Middle East Technical University"
 location: "Ankara, Türkiye"
 duration: "2016-2019"
