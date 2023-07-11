@@ -1,6 +1,12 @@
 {{ if .Site.Data.homepage.experience.enable }}
 <section id="experience" class="section section--border-bottom rad-animation-group">
     <div class="container">
+	<div class="row">
+	    <h2>{{ .Site.Data.homepage.experience.title }}</h2>
+	{{ if .Site.Data.homepage.experience.description }}
+	    <p class="lead">{{ .Site.Data.homepage.experience.description }}</p>
+	{{ end }}
+	</div>
         <div class="row flex-column-reverse flex-md-row rad-fade-down">
             <div class="col-12 cold-md-12 col-sm-6 mt-5 mt-sm-0">
                 {{ $xp := (where .Site.RegularPages.ByDate.Reverse "Type" "experience") }}
