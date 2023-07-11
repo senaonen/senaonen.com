@@ -191,11 +191,11 @@ body.home div.publication{
     display: block;
     background-color: #488079;
 }
-.publication.selected a > .publication__company,
-.publication:hover a > .publication__company,
-.publication:active a > .publication__company,
-.publication a:hover > .publication__company,
-.publication a:active > .publication__company{
+.publication.selected a > .publication__authors,
+.publication:hover a > .publication__authors,
+.publication:active a > .publication__authors,
+.publication a:hover > .publication__authors,
+.publication a:active > .publication__authors{
     color: white;
 }
 
