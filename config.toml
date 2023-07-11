@@ -74,7 +74,7 @@ theme = "sena"
 
   [params.logo]
     text1 = "Sena"
-    text2 = "Önen Öz"
+    text2 = "ÖnenÖz"
 
   [params.footer]
       copyright = "© Sena Önen Öz. <a href=\"https://github.com/senaonen/senaonen.com\">Code available on GitHub</a>."
