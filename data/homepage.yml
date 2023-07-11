@@ -41,10 +41,6 @@ about:
     On the technical side, I’m a <em>specialized generalist</em>, always working between different areas, such as mobile and web development, devops, team leading... This has involved a variety of languages and frameworks in the web-side, both in the backend and in the client side.
     </p>'
 
-  button:
-    icon: "icon-smile-fill"
-    btnText: "About Me"
-    URL: "https://www.linkedin.com/in/senaonenoz/"
   image:
     x: "images/working-left.jpg"
     _2x: "images/working-left@2x.jpg"
