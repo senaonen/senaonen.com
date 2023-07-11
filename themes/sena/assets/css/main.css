@@ -9704,8 +9704,8 @@ input[type="email"]::placeholder {
     height: 100%;
     z-index: 1;
     background-color: #edf1f4;
-    -webkit-transform: skew(-13deg);
-    transform: skew(-13deg);
+    -webkit-transform: skew(13deg);
+    transform: skew(13deg);
 }
 .education__date {
     position: relative;
