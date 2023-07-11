@@ -10,7 +10,7 @@ showcase:
   image:
     alt: "Profile picture of Sena Onen Oz"
     x: "images/sena.jpg"
-    _2x: "images/sena@x2.jpg"
+    _2x: "images/sena@2x.jpg"
   imageMobile:
     alt: "Profile picture of Sena Onen Oz"
     x: "images/sena.jpg"
