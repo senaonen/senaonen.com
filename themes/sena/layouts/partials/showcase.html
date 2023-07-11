@@ -14,7 +14,7 @@
           {{ .Site.Data.homepage.showcase.description | safeHTML }}
         </p>
         <a
-          href="{{ .Site.Data.homepage.showcase.button.URL }}"
+          href="{{ .Site.Data.homepage.showcase.button.URL }}" target="_blank" 
           class="btn btn-primary"
         >
           <i class="{{ .Site.Data.homepage.showcase.button.icon }}"></i>
@@ -22,7 +22,7 @@
         </a>
     {{ if .Site.Data.homepage.showcase.button2.btnText }}
         <a
-          href="{{ .Site.Data.homepage.showcase.button2.URL }}"
+          href="{{ .Site.Data.homepage.showcase.button2.URL }}" target="_blank" 
           class="btn btn-primary"
         >
           <i class="{{ .Site.Data.homepage.showcase.button2.icon }}"></i>
