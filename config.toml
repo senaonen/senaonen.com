@@ -58,7 +58,7 @@ theme = "sena"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "publications"]
+  sections = ["showcase", "about", "education", "experience", "clients_and_works"]
   googleTagManagerID = "GTM-NVN2BJG" # Google Analytics works with Google Tag Manager
 
   [params.logo]
