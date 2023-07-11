@@ -42,7 +42,7 @@ about:
 
 # education
 education:
-  enable: false
+  enable: true
   title: "Education"
   items:
     - university: "McGill University"
@@ -58,14 +58,14 @@ education:
       degree: "B.Sc. in Industrial Engineering"
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
   #description: "experience description."
   
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
   clients:
     - logo:
