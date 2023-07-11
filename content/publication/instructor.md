@@ -1,16 +1,11 @@
 ---
-date: 2023-05-01T00:00:00+01:00
+date: 2021-02-01T00:00:00+01:00
 draft: false
-title: "Course Instructor"
-jobTitle: "Course Instructor"
-company: "McGill University"
-location: "Montreal, Quebec, Canada"
-duration: "2023"
+title: "IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review"
+authors: "Burak Oz, Sena Onen Oz, Prof. Jacques Robert, Prof. Pierre-Majorique Léger"
+venue: "AMCIS 2021"
+year: "2021"
+externalURL: "https://web.archive.org/web/20220802080105id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1171&context=amcis2021"
 ---
 
-I had the privilege of teaching the course Operations Management to a vibrant class of 35 students. Throughout the course, we delved into a variety of essential topics, placing a particular emphasis on waiting lines, capacity planning, inventory management, and total quality management. By imparting these essential concepts, I aimed to equip my students with the knowledge and skills necessary to excel in the field of operations management.
-
-Recognizing the significance of active learning, I employed various engaging strategies to enhance the learning experience for my students. To facilitate their comprehension and participation, we incorporated online quizzes, and interactive games, and utilized Excel as a simulation tool. These methods not only fostered a dynamic and interactive learning environment but also encouraged students to actively engage with the course material, promoting deeper understanding and knowledge retention.
-
-Average Student Evaluation: 4.6/5
-
+Climate change is of utmost importance in this century. To assess how business education is adapting to this global challenge, my co-authors and I conducted a comprehensive literature review. Our aim was to identify IT-based teaching innovations that effectively incorporate sustainability topics into business school classrooms. Our findings revealed a clear need for a teaching approach that integrates both sustainability and profit-oriented objectives in a practical and realistic manner. Shortly after publishing our literature review, my co-authors successfully released the first version of 'ERPsim Logistics Sustainability' in response to this identified need. This teaching innovation represents a significant step forward in integrating sustainability issues into business education.
