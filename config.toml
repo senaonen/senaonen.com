@@ -1,4 +1,4 @@
-pbaseURL = "https://www.senaonen.com/"
+baseURL = "https://www.senaonen.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Sena Önen Öz"
