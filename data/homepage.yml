@@ -6,7 +6,7 @@ showcase:
   enable: true
   title: "Hello, I’m Sena."
   subtitle: "Ph.D. Candidate"
-  description: "I work at <a target='_blank' href='https://www.sumup.com/'>SumUp</a>, a digital payments company focused in small businesses. My background is diverse (you could say I'm a specialized generalist), but always close to digital technology.<br>I have done a bit of everything, from backend development to mobile apps, devops or team leading and coaching. I love automation as a way to optimize processes and avoid repetitive work, and working in happy agile teams - where work is a way to solve problems, and not a mean by itself."
+  description: "I am a PhD candidate in the <a target='_blank' href='https://www.mcgill.ca/desautels/research/specializations/operations-management'>Operations Management</a> at <a target='_blank' href='https://www.mcgill.ca/desautels'>McGill University Desautels Faculty of Management</a>. My doctoral research focuses on several areas, including urban mobility, revenue management, and pricing. Additionally, I collaborate with industry partners to further explore these topics."
   image:
     alt: "Profile picture of Sena Onen Oz"
     x: "images/Sena-Onen-Oz-400x400.jpg"
