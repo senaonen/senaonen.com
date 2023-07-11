@@ -59,9 +59,12 @@ education:
       degree: "Ph.D. in Operations Management"
 
     - university: "Middle East Technical University"
-      year: "2011-2019"
-      degree: "M.Sc. & B.Sc. in Industrial Engineering"
+      year: "2017-2019"
+      degree: "M.Sc. in Industrial Engineering"
 
+    - university: "Middle East Technical University"
+      year: "2011-2016"
+      degree: "B.Sc. in Industrial Engineering"
 # experience
 experience:
   enable: true
