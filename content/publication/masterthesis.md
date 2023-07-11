@@ -2,7 +2,7 @@
 date: 2019-07-31T00:00:00+01:00
 draft: false
 title: "Mixed Integer Programming and Heuristics Approaches for Clustering with Cluster-Based Feature Selection"
-authors: "Sena Onen Oz"
+authors: "<b>Sena Onen Oz</b>"
 venue: "METU Thesis Library"
 year: "2019"
 externalURL: "https://open.metu.edu.tr/bitstream/handle/11511/43692/index.pdf"
