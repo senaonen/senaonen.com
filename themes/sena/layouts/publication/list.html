@@ -21,10 +21,10 @@
               <a href="{{.Permalink}}">
                 {{/* The context, ".", is now each one of the pages as it goes
                 through the loop */}}
-                <div class="publication__date">{{ .Params.duration }}</div>
+                <div class="publication__date">{{ .Params.year }}</div>
                 <div class="publication__title">{{ .Params.title }}</div>
                 <div class="publication__company">
-                  {{ .Params.company }}.
+                  {{ .Params.venue }}.
                   <span class="publication__location"
                     >{{ .Params.location }}</span
                   >
