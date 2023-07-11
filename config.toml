@@ -45,12 +45,6 @@ theme = "sena"
   URL = "index.html#experience"
   weight = 3
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
-
-
   [[menu.footer]]
   name = "💁‍♂️ About"
   URL = "index.html#about"
@@ -69,13 +63,13 @@ theme = "sena"
 
   [[menu.footer]]
   name = "📨 Contact"
-  URL = "index.html#contact"
+  URL = "mailto:sena.onenoz@mail.mcgill.ca"
   weight = 5
 
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "contact"]
+  sections = ["showcase", "about", "education", "experience"]
   googleTagManagerID = "GTM-NVN2BJG" # Google Analytics works with Google Tag Manager
 
   [params.logo]
