@@ -83,7 +83,7 @@ theme = "sena"
     text2 = "Moreno"
 
   [params.footer]
-      copyright = "© Adrián Moreno Peña. <a href=\"https://github.com/zetxek/adrianmoreno.info\">Code available in GitHub</a>."
+      copyright = "© Sena Önen. <a href=\"https://github.com/senaonen/senaonen.com\">Code available on GitHub</a>."
 
 [taxonomies]
   book_author = "book_authors"
