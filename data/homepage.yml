@@ -20,16 +20,9 @@ showcase:
     btnText: "Contact"
     URL: "mailto:sena.onenoz@mail.mcgill.ca"
 
- button:
-    icon: "icon-linkedin-fill"
-    btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/senaonenoz/"
-    
+  
   socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/senaonenoz/"
-
-    - icon: "googlescholar"
+      - icon: "googlescholar"
       URL: "https://scholar.google.com/citations?user=AZ82MpYAAAAJ&hl=en"
 
 # about
