@@ -9,7 +9,7 @@ showcase:
   description: "I work at <a target='_blank' href='https://www.sumup.com/'>SumUp</a>, a digital payments company focused in small businesses. My background is diverse (you could say I'm a specialized generalist), but always close to digital technology.<br>I have done a bit of everything, from backend development to mobile apps, devops or team leading and coaching. I love automation as a way to optimize processes and avoid repetitive work, and working in happy agile teams - where work is a way to solve problems, and not a mean by itself."
   image:
     alt: "Profile picture of Sena Onen Oz"
-    x: "images/adrian.jpg"
+    x: "images/Sena-Onen-Oz-400x400.jpg"
     _2x: "images/Sena-Onen-Oz-400x400.jpg"
   imageMobile:
     alt: "Profile picture of Sena Onen Oz"
@@ -58,7 +58,6 @@ education:
       year: "2019-ongoing"
       degree: "Ph.D. in Operations Management"
 
-  
     - university: "Middle East Technical University"
       year: "2016-2019"
       degree: "M.Sc. in Industrial Engineering"
