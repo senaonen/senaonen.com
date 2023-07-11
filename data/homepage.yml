@@ -54,7 +54,7 @@ education:
   enable: true
   title: "Education"
   items:
-   - university: "McGill University"
+    - university: "McGill University"
       year: "2019-ongoing"
       degree: "Ph.D. in Operations Management"
 
