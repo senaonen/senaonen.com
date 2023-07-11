@@ -2,7 +2,7 @@
 date: 2015-10-01T00:00:00+01:00
 draft: false
 title: "Systems Design Project"
-jobTitle: "Team Member"
+jobTitle: "Project Team Member"
 company: "Middle East Technical University"
 location: "Ankara, Türkiye"
 duration: "2015-2016"
