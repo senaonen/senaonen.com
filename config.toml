@@ -1,8 +1,8 @@
-baseURL = "https://www.adrianmoreno.info/"
+baseURL = "https://www.senaonen.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Adrián Moreno Peña · Web & Mobile Developer, all-around coder"
-theme = "adritian"
+title = "Sena Önen"
+theme = "sena"
 
 
 # Languages
