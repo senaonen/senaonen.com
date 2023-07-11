@@ -65,7 +65,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: false
+  enable: true
 
   clients:
     - logo:
