@@ -1,4 +1,4 @@
-baseURL = "https://www.senaonen.com/"
+pbaseURL = "https://www.senaonen.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Sena Önen Öz"
@@ -42,7 +42,12 @@ theme = "sena"
 
   [[menu.header]]
   name = "Experience"
-  URL = "index.html#experience"
+  URL = "experience/"
+  weight = 4
+
+  [[menu.header]]
+  name = "Publications"
+  URL = "publication/"
   weight = 3
 
   [[menu.footer]]
