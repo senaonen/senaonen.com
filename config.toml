@@ -21,7 +21,7 @@ theme = "sena"
   [[params.plugins.css]]
   link = "css/main.css"
   [[params.plugins.css]]
-  link = "css/rad-icons.css"
+  link = "fontawesome/css/all.min.css"
   [[params.plugins.css]]
   link = "css/custom.css"
 
