@@ -1,5 +1,5 @@
 ---
-date: 2016-12-01T00:00:00+01:00
+date: 2019-07-31T00:00:00+01:00
 draft: false
 title: "Master Thesis"
 jobTitle: "Mixed Integer Programming and Heuristics Approaches for Clustering with Cluster-Based Feature Selection"
