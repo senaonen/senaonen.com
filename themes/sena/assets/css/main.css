@@ -67,18 +67,10 @@ sup {
     -webkit-appearance: none;
 }
 /*@font-face {
-    font-family: Tinos;
-    font-display: swap;
-    font-style: normal;
-    font-weight: 300;
-    src: url(../fonts/tinos/tinos-latin-ext-400-normal.woff2) format("woff2"), url(../fonts/tinos/tinos-latin-ext-400-normal.woff) format("woff");
+    font-family: 'PT Serif';
 }
 @font-face {
-    font-family: Tinos;
-    font-display: swap;
-    font-style: normal;
-    font-weight: 700;
-    src: url(../fonts/tinos/tinos-latin-ext-700-normal.woff2) format("woff2"), url(../fonts/tinos/tinos-latin-ext-700-normal.woff) format("woff");
+    font-family: 'PT Serif';
 }*./
 @-webkit-keyframes right-to-left {
     0% {
