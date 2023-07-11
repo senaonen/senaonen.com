@@ -7,7 +7,6 @@ company: "Middle East Technical University"
 location: "Ankara, Türkiye"
 duration: "2016-2019"
 ---
-# Research and Teaching Assistantship
 
 I worked as a research and teaching assistant at Middle East Technical University, renowned as the leading technical university in Turkey, for a period of three years. Throughout this time, I had the opportunity to assist in various courses, including mandatory courses with an average enrollment of 120 students. 
 
