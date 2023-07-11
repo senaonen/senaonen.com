@@ -60,7 +60,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
+  #description: "experience description."
   
 # Client & Work
 client_and_work:
