@@ -9,11 +9,11 @@ showcase:
   description: "I am a PhD candidate in the <a target='_blank' href='https://www.mcgill.ca/desautels/research/specializations/operations-management'>Operations Management</a> at <a target='_blank' href='https://www.mcgill.ca/desautels'>McGill University Desautels Faculty of Management</a>. My doctoral research focuses on several areas, including urban mobility, revenue management, and pricing. Additionally, I collaborate with industry partners to further explore these topics."
   image:
     alt: "Profile picture of Sena Onen Oz"
-    x: "images/Sena-Onen-Oz-400x400.jpg"
-    _2x: "images/Sena-Onen-Oz-400x400.jpg"
+    x: "images/sena.jpg"
+    _2x: "images/sena@x2.jpg"
   imageMobile:
     alt: "Profile picture of Sena Onen Oz"
-    x: "images/Sena-Onen-Oz-400x400.jpg"
+    x: "images/sena.jpg"
 
   button:
     icon: "icon-mail-fill"
