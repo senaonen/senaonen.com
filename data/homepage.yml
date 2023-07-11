@@ -43,7 +43,7 @@ about:
 
   image:
     x: "images/ny.jpg"
-    _2x: "images/nyx2.jpg"
+    _2x: "images/ny@2x.jpg"
 
 # education
 education:
