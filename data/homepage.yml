@@ -131,7 +131,11 @@ client_and_work:
         x: "img/works/robo-advisor.jpg"
         _2x: "img/works/robo-advisor@2x.jpg"
       is_even: true
-
+# publication
+publication:
+  enable: true
+  title: "Publications"
+  description: "publications description."
 # testimonial
 testimonial:
   enable: false
