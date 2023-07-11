@@ -16,12 +16,12 @@ showcase:
     x: "images/sena.jpg"
 
   button:
-    icon: "icon-mail-fill"
+    icon: "icon-linkedin-fill"
     btnText: "LinkedIn"
     URL: "https://www.linkedin.com/in/senaonenoz/"
 
   button2:
-    icon: "icon-mail-fill"
+    icon: "icon-scholar-fill"
     btnText: "Google Scholar"
     URL: "https://scholar.google.com/citations?user=AZ82MpYAAAAJ&hl=en"
 
