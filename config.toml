@@ -51,12 +51,12 @@ theme = "sena"
   weight = 3
 
   [[menu.footer]]
-  name = "💁‍♂️ About"
+  name = "About"
   URL = "index.html#about"
   weight = 2
 
   [[menu.footer]]
-  name = "📨 Contact"
+  name = "Contact"
   URL = "mailto:sena.onenoz@mail.mcgill.ca"
   weight = 5
 
