@@ -2,7 +2,7 @@
 date: 2023-05-10T00:00:00+01:00
 draft: false
 title: "Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times"
-authors: "<b>Sena Onen Oz</b>, Mehmet Gumus, Wei Qi"
+authors: "Sena Onen Oz, Mehmet Gumus, Wei Qi"
 venue: "Under Review"
 year: "2023"
 externalURL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445305"
