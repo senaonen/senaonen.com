@@ -135,7 +135,7 @@ client_and_work:
 publication:
   enable: false
   title: "Publications"
-  description: "publications description."
+  #description: "publications description."
 # testimonial
 testimonial:
   enable: false
