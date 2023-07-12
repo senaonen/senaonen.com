@@ -1,12 +1,11 @@
-{{ if .Site.Data.homepage.publication.enable }}
 <section id="publication" class="section section--border-bottom rad-animation-group">
     <div class="container">
+	{{ if .Site.Data.homepage.publication.description }}
 	<div class="row">
 	    <h2>{{ .Site.Data.homepage.publication.title }}</h2>
-	{{ if .Site.Data.homepage.publication.description }}
 	    <p class="lead">{{ .Site.Data.homepage.publication.description }}</p>
-	{{ end }}
 	</div>
+	{{ end }}
         <div class="row flex-column-reverse flex-md-row rad-fade-down">
             <div class="row pt-2 pt-md-4">
                 {{ $xp := (where .Site.RegularPages.ByDate.Reverse "Type" "publication") }}
@@ -38,4 +37,3 @@
         </div>
     </div>
 </section>
-{{ end }}
