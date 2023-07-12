@@ -12,10 +12,6 @@ html body ::selection{
     block-size: auto;
 }
 
-.profile-image img{
-    margin-top: 40px;
-}
-
 .rad-showcase__bg img{
     margin-top: 0;
     margin-left: 100px;
