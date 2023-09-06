@@ -47,7 +47,7 @@ theme = "sena"
 
   [[menu.header]]
   name = "Publications"
-  URL = "publication/"
+  URL = "publications/"
   weight = 3
 
   [[menu.footer]]
