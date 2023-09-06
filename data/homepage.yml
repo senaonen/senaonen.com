@@ -132,7 +132,7 @@ client_and_work:
         _2x: "img/works/robo-advisor@2x.jpg"
       is_even: true
 # publication
-publication:
+publications:
   enable: false
   title: "Publications"
   #description: "publications description."
