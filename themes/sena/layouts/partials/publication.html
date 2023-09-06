@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row flex-column-reverse flex-md-row rad-fade-down">
             <div class="col-12 cold-md-12 col-sm-6 mt-5 mt-sm-0">
-                {{ $xp := (where .Site.RegularPages.ByDate.Reverse "Type" "publication") }}
+                {{ $xp := (where .Site.RegularPages.ByDate.Reverse "Type" "publications") }}
                 {{ $xpCount := len $xp }}
                 {{ range first 6 $xp }}
                 <div class="publication">
