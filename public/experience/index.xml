@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sena Önen Öz</title>
+    <link>https://senaonen.com/experience/</link>
+    <description>Recent content on Sena Önen Öz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://senaonen.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Instructor</title>
+      <link>https://senaonen.com/experience/instructor/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/experience/instructor/</guid>
+      <description>I had the privilege of teaching the course Operations Management to a vibrant class of 35 students. Throughout the course, we delved into a variety of essential topics, placing a particular emphasis on waiting lines, capacity planning, inventory management, and total quality management. By imparting these essential concepts, I aimed to equip my students with the knowledge and skills necessary to excel in the field of operations management.
+Recognizing the significance of active learning, I employed various engaging strategies to enhance the learning experience for my students.</description>
+    </item>
+    
+    <item>
+      <title>Research and Teaching Assistant</title>
+      <link>https://senaonen.com/experience/assistant/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/experience/assistant/</guid>
+      <description>I worked as a research and teaching assistant at Middle East Technical University, renowned as the leading technical university in Turkey, for a period of three years. Throughout this time, I had the opportunity to assist in various courses, including mandatory courses with an average enrollment of 120 students.
+As a research and teaching assistant, my responsibilities encompassed several key tasks, such as preparing and evaluating quizzes, term projects, and case studies.</description>
+    </item>
+    
+    <item>
+      <title>Systems Design Project Team Member</title>
+      <link>https://senaonen.com/experience/systemsdesign/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/experience/systemsdesign/</guid>
+      <description>As part of the B.Sc. program at Middle East Technical University, students are required to undertake a project focused on a real-life industry problem before graduating. In this framework, senior student teams collaborate with a sponsoring organization under faculty supervision. The objective of the course is to enable students to analyze raw data, identify problem areas, develop solutions, and create implementation plans. Working together as a team, our goal was to design a decision support system that generates daily or weekly production schedules for each work center, with the aim of minimizing the makespan.</description>
+    </item>
+    
+  </channel>
+</rss>

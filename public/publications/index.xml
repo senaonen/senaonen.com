@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sena Önen Öz</title>
+    <link>https://senaonen.com/publications/</link>
+    <description>Recent content on Sena Önen Öz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://senaonen.com/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coins, Cards, or Apps: Impact of Payment Methods on Street Parking Occupancy and Wait Times</title>
+      <link>https://senaonen.com/publications/coins/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/publications/coins/</guid>
+      <description>In urban areas, the challenge of finding convenient on-street parking is a common struggle for city dwellers. This research focuses on exploring the impact of different payment methods on drivers&amp;rsquo; payment behavior, as well as the implications for street parking occupancy and wait times. The study reveals interesting insights by comparing traditional payment methods, such as cash and credit card payments through on-site meters, with the flexibility offered by mobile payment applications.</description>
+    </item>
+    
+    <item>
+      <title>IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review</title>
+      <link>https://senaonen.com/publications/litrev/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/publications/litrev/</guid>
+      <description>Climate change is of utmost importance in this century. To assess how business education is adapting to this global challenge, my co-authors and I conducted a comprehensive literature review. Our aim was to identify IT-based teaching innovations that effectively incorporate sustainability topics into business school classrooms. Our findings revealed a clear need for a teaching approach that integrates both sustainability and profit-oriented objectives in a practical and realistic manner. Shortly after publishing our literature review, my co-authors successfully released the first version of &amp;lsquo;ERPsim Logistics Sustainability&amp;rsquo; in response to this identified need.</description>
+    </item>
+    
+    <item>
+      <title>Mixed Integer Programming and Heuristics Approaches for Clustering with Cluster-Based Feature Selection</title>
+      <link>https://senaonen.com/publications/masterthesis/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://senaonen.com/publications/masterthesis/</guid>
+      <description>Our research focuses on cluster analysis, revealing hidden similarities among data points and creating meaningful groupings. Despite challenges posed by high-dimensional data, we address this by identifying cluster-specific relevant features. Using a center-based clustering approach, we simultaneously determine cluster centers, assign data points to clusters, and select the most pertinent features. To achieve this, we propose a powerful mixed integer mathematical model. Given the non-linear nature of the proposed model, we employ various mathematical techniques and have developed heuristic algorithms tailored to the unique characteristics of the problem.</description>
+    </item>
+    
+  </channel>
+</rss>
