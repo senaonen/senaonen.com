@@ -55,10 +55,6 @@ theme = "sena"
   URL = "index.html#about"
   weight = 2
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "mailto:sena.onenoz@mail.mcgill.ca"
-  weight = 5
 
 
 [params]
