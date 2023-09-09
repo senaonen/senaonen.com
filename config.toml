@@ -55,7 +55,15 @@ theme = "sena"
   URL = "index.html#about"
   weight = 2
 
+  [[menu.footer]]
+  name = "Experience"
+  URL = "experience/"
+  weight = 4
 
+  [[menu.footer]]
+  name = "Publications"
+  URL = "publications/"
+  weight = 3
 
 [params]
 
