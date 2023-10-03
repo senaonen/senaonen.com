@@ -76,7 +76,3 @@ theme = "sena"
 
   [params.footer]
       copyright = "© Sena Önen Öz. <a href=\"https://github.com/senaonen/senaonen.com\">Code available on GitHub</a>."
-
-[taxonomies]
-  book_author = "book_authors"
-  book_category = "book_categories"
