@@ -2,7 +2,7 @@
 date: 2021-02-01T00:00:00+01:00
 draft: false
 title: "IT-Based Learning Tools to Introduce Sustainability Problems to Management Students: A Scoping Review"
-authors: "Burak Oz, Sena Onen Oz, Prof. Jacques Robert, Prof. Pierre-Majorique Léger"
+authors: "Burak Oz, Sena Onen Oz, Jacques Robert, Pierre-Majorique Léger"
 venue: "AMCIS 2021"
 year: "2021"
 externalURL: "https://web.archive.org/web/20220802080105id_/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1171&context=amcis2021"
